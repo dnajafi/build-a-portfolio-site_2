@@ -1,0 +1,41 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+.text-muted {
+    color: #bcbbbb;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 30px;
+}
+
+
+.indent-right {
+	 margin-left: 320px;
+
+}
+
+#content {
+  margin-left: 15%;
+  width: 500px;
+  text-align: center;
+}
+
+#hint {
+  color: #666;
+  margin-left: 15%;
+  width: 300px;
+  text-align: left;
+  margin-top: 3em;
+}
